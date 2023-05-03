@@ -34,6 +34,12 @@ function App() {
           <button className="btn2">Sign In</button>
         </div>
       </div>
+      <hr />
+      <p className="antra-info">
+        Antra Inc. 21355 Ridgetop Circle Site 300 Dulles Va 20166 Phone:
+        703.994.4545 Fax: 703.373.2975 e-mail:hr@antral.net website:
+        www.antra.net
+      </p>
     </div>
   );
 }

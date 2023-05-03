@@ -89,7 +89,7 @@ p {
 }
 .btn1,
 .btn2 {
-  padding: 0.8rem 5.4rem;
+  padding: 1rem 5.8rem;
   border-radius: 6px;
   border-style: none;
   margin-left: 1.2rem;
@@ -103,9 +103,23 @@ p {
 .btn2 {
   background-color: rgb(83, 157, 83);
 }
+hr {
+  margin-top: 20rem;
+}
+.antra-info {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 0.8rem;
+}
 
 @media screen and (max-width: 768px) {
   body {
     width: 20rem;
+  }
+  input {
+    width: 92%;
+  }
+  .btn1 {
+    margin-bottom: 2rem;
   }
 }
